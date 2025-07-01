@@ -6,7 +6,7 @@ This project predicts individual medical insurance costs using machine learning.
 - Machine learning model
 - Interactive web application
 
-![App Screenshot](screenshot.png) *(Add actual screenshot later)*
+![App Screenshot]([screenshot.png](https://github.com/Amritanshu-Raj/Predictive_MachineLearning_model/blob/main/Insurance_Charge_Predictionapp.jpeg?raw=true))
 
 ## 🔍 Key Findings from Analysis
 Through detailed exploration of the insurance dataset, we discovered:
@@ -115,10 +115,10 @@ insurance-project/
 - [ ] Create historical quote tracking
 
 ## 👨‍💻 About the Developer
-As a fresh data science enthusiast, this project helped me learn:
+As a fresher data analyst enthusiast, this project helped me learn:
 - Practical data cleaning techniques
 - Machine learning model selection
 - Real-world deployment with Streamlit
 - Communicating technical insights
 
-Connect with me: [Your LinkedIn URL]
+Connect with me: ((https://www.linkedin.com/in/amritanshu-raj-104735233/))
