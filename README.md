@@ -54,7 +54,7 @@ We tested multiple algorithms before selecting Gradient Boosting:
 |-------|-------------|------------|----------------|
 | Linear Regression | 0.75 | 0.74 | Underfit data |
 | Polynomial (deg=4) | 0.87 | 0.82 | Overfit data |
-| **Gradient Boosting** | **0.91** | **0.86** | Best balance |
+| **Gradient Boosting** | **0.95** | **0.84** | Best balance |
 
 ```python
 final_model = GradientBoostingRegressor(
